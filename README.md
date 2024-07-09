@@ -1,5 +1,5 @@
 # 🧑‍💻About Me:
-🔭 I’m currently working on building my own portfolio website.<br> 🧳 I’m looking for an internship in Software Development or Data Science.<br>🌱 I’m currently learning C++.<br>💬 My research interest is cybersecurity and cryptography.<br>
+🔭 I’m currently working on my own portfolio website.<br> 🧳 I’m looking for an internship in Software Development or Data Science.<br>🌱 I’m currently learning C++.<br>💬 My research interest is cybersecurity and cryptography.<br>
 
 
 ## 🌐 Socials:
